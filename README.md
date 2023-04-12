@@ -6,5 +6,5 @@
 <span></span>
 
 <span>
-  <img width="848px" src="https://github-profile-trophy.vercel.app/?username=6uclz1&theme=gruvbox&no-frame=true&margin-w=3&column=-1" />
+  <img width="827px" src="https://github-profile-trophy.vercel.app/?username=6uclz1&theme=gruvbox&no-frame=true&margin-w=3&column=-1" />
 </span>
